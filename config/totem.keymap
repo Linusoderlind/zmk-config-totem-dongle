@@ -182,10 +182,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                       &kp EXCL                    &kp SV_AT              &kp HASH             &kp SV_CURRENCY_SIGN  &kp PRCNT       &kp SV_AMPERSAND  &kp SV_SLASH          &kp SV_DOLLAR          &kp SV_EURO        &kp SV_POUND_SIGN
-                       &kp SV_LESS_THAN            &kp SV_PIPE            &kp SV_GREATER_THAN  &kp SV_COLON          &kp SV_EQUAL    &kp C_MUTE        &kp SV_DOUBLE_QUOTES  &space_after SV_GRAVE  &kp SV_UNDERSCORE  &kp SV_MINUS
-&space_after SV_TILDE  &space_after SV_APOSTROPHE  &space_after SV_CARET  &kp SV_BACKSLASH     &kp SV_QUESTION       &kp SV_STAR     &kp C_VOL_DN      &kp C_VOL_UP          &kp C_PREV             &kp C_PLAY_PAUSE   &kp C_NEXT         &kp SV_SINGLE_QUOTE
-                                                                          &trans               &trans                &trans          &trans            &trans                &trans
+                       &kp EXCL           &kp SV_AT              &kp HASH             &kp SV_CURRENCY_SIGN  &kp PRCNT       &kp SV_AMPERSAND  &kp SV_SLASH          &kp SV_DOLLAR          &kp SV_EURO        &kp SV_POUND_SIGN
+                       &kp SV_LESS_THAN   &kp SV_PIPE            &kp SV_GREATER_THAN  &kp SV_COLON          &kp SV_EQUAL    &kp C_MUTE        &kp SV_DOUBLE_QUOTES  &space_after SV_GRAVE  &kp SV_UNDERSCORE  &kp SV_MINUS
+&space_after SV_TILDE  &kp SV_APOSTROPHE  &space_after SV_CARET  &kp SV_BACKSLASH     &kp SV_QUESTION       &kp SV_STAR     &kp C_VOL_DN      &kp C_VOL_UP          &kp C_PREV             &kp C_PLAY_PAUSE   &kp C_NEXT         &kp SV_SINGLE_QUOTE
+                                                                 &trans               &trans                &trans          &trans            &trans                &trans
             >;
         };
 
